@@ -1,0 +1,2 @@
+This file is used to track all the expenses we are doing monthly.
+It will be modified in future
